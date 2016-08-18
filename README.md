@@ -1,6 +1,8 @@
-Powershell in Docker
+## Powershell in Docker
 
-# Usage
+Run powershell inside docker
+
+### Usage
 
 To enter the Powershell console, just run:
 
